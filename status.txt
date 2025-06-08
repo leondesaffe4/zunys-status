@@ -1,1 +1,1 @@
-check_error
+error_check
