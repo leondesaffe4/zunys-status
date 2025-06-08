@@ -1,1 +1,1 @@
-online
+check_error
